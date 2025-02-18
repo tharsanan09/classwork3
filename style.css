@@ -1,0 +1,76 @@
+.a{
+  display: inline-flex;
+}
+.shop img{
+  height: 12px; width: 18px;
+}
+.love img{
+  height: 15px; width: 20px; display: inline-flex;
+}
+.b{ background-image: url(rose.jpg);
+  height: 250px; width: 1500px;  color: azure; text-align: center; padding-top: 100px;
+}
+.but{
+ background-color: crimson;
+}
+.flo1{
+  display: flex; margin: 30px; padding: 60px; background-color: coral;
+}
+.rou img{
+  height: 500px; width: 600px;
+}
+.choo li{
+  color: brown;
+}
+.get{
+  text-align: center;
+}
+.cen img{
+     height: 40px; width: 40px; padding-bottom: 70%; 
+}
+.cen{
+  display: flex; padding-left: 100px;
+}
+.containar{
+display: flex;
+}
+.button{
+  background-color: crimson; width: 170px;
+} 
+.dark{
+  display: flex; 
+}
+.lop img{
+    height: 40px; width: 40px; padding-right: 10px; align: center
+    
+}
+.dark1{
+  padding-left: 150px;
+}
+.lop {
+  padding-left: 200px; padding-right: 200px; 
+}
+.form{
+  padding-left: 150px;
+}
+.choo{
+  padding-left: 150px; 
+}
+.dark div{
+  background-color: midnightblue;
+}
+.dark h4{
+  color: aliceblue;
+}
+.dark p{
+  color: bisque;
+}
+.foo{
+  text-align: center; background-color: darkblue;
+}
+.rou img{
+  border-radius: 400px;
+}
+.b div{
+  margin: auto;
+}
